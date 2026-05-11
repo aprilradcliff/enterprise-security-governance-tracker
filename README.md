@@ -1,4 +1,4 @@
-# 🔐 GRC Security Governance Dashboard (Jira)
+# 🔐 Enterprise Security Governance Tracker (Jira)
 
 ## 📌 Overview
 
@@ -10,55 +10,129 @@ Rather than functioning as a simple ticketing demonstration, this project was in
 
 ---
 
-## 🎯 Key Capabilities
+# 🎯 Project Objectives
 
-- Track and manage security findings and remediation tasks
-- Perform access control reviews (IAM governance)
-- Handle MFA exception requests and approvals
-- Monitor vendor compliance (SOC 2)
-- Manage security policy updates (HIPAA)
-- Execute phishing awareness campaigns
-
----
-
-## 🧠 Skills Demonstrated
-
-- Governance, Risk, and Compliance (GRC) frameworks
-- Risk prioritization and classification
-- Security operations workflow design
-- Jira project configuration and dashboard creation
-- Data visualization for security reporting
-- Analytical thinking in cybersecurity operations
+* Centralize governance and operational security tracking
+* Improve visibility into remediation and security activities
+* Model risk prioritization and workflow management
+* Simulate compliance and audit-related coordination
+* Demonstrate practical cybersecurity workflow organization
 
 ---
 
-## 📊 Dashboard Visuals
+# 🛡️ Simulated Security Functions
 
-### Priority Distribution
-![Priority Distribution](dashboard-screenshots/grc-security-dashboard_priority-distribution_pie-chart.png)
+## Vulnerability Management
 
-### Issue Tracker (GRC Security Issues)
-![Issue Tracker](dashboard-screenshots/grc-security-dashboard_issue-tracker_filter-results.png)
+* Critical vulnerability remediation tracking
+* Legacy system patch validation
+* Endpoint encryption compliance monitoring
+* Risk prioritization and remediation coordination
 
-### Priority vs Status Analysis
-![Priority vs Status](dashboard-screenshots/grc-security-dashboard_priority-vs-status_analysis.png)
+## Identity & Access Management (IAM)
+
+* Privileged access reviews
+* Dormant account audits
+* MFA exception governance
+* Shared account elimination initiatives
+
+## Security Operations Coordination
+
+* Suspicious login investigations
+* Phishing incident tracking
+* Security remediation coordination
+* Operational workflow management
+
+## Governance, Risk & Compliance (GRC)
+
+* HIPAA security risk assessments
+* Policy exception reviews
+* Vendor security questionnaire reviews
+* Compliance tracking workflows
 
 ---
 
-## 💡 Why This Matters
+# 📊 Dashboard & Reporting Features
 
-This project demonstrates how Jira can be used beyond basic task management to support structured cybersecurity governance and operational visibility.
+The Jira dashboards were configured to simulate enterprise operational visibility through:
+
+* Priority distribution reporting
+* Issue status tracking
+* Workflow monitoring
+* Security operations coordination visibility
+* Governance activity reporting
+* Risk severity analysis
+
+---
+
+# 🧠 Skills Demonstrated
+
+* Governance, Risk & Compliance (GRC)
+* Vulnerability Management
+* Security Workflow Coordination
+* Incident Tracking
+* Identity & Access Management (IAM)
+* Risk Prioritization
+* Security Operations Concepts
+* Jira Dashboard Reporting
+* Compliance Coordination
+* Operational Security Documentation
+* Analytical Thinking in Cybersecurity Operations
+
+---
+
+# 📂 Example Governance & Security Workflows
+
+The project includes simulated enterprise cybersecurity activities such as:
+
+* Critical VPN appliance vulnerability remediation
+* Suspicious login investigations
+* MFA exception reviews
+* Vendor risk management
+* HIPAA compliance activities
+* Privileged access reviews
+* Endpoint encryption compliance tracking
+* Policy exception governance
+* Phishing incident coordination
+
+---
+
+# 📸 Dashboard Visuals
+
+## Security Governance Dashboard
+
+(Add updated dashboard screenshot here)
+
+## Governance & Security Operations Tracking
+
+(Add updated ticket list screenshot here)
+
+## Priority vs Status Analysis
+
+(Add updated status analysis screenshot here)
+
+## Example Security Investigation Workflow
+
+(Add detailed ticket screenshot here)
+
+---
+
+# 💡 Why This Matters
+
+This project demonstrates how Jira can be used beyond basic task management to support structured cybersecurity governance, operational visibility, and security workflow coordination.
 
 It reflects how security teams:
-- Prioritize risk based on impact and urgency
-- Track remediation progress across multiple issue types
-- Communicate status clearly to stakeholders
-- Maintain accountability in compliance-driven environments
+
+* Prioritize risk based on impact and urgency
+* Track remediation progress across multiple issue types
+* Coordinate governance and operational security activities
+* Communicate status clearly to stakeholders
+* Maintain accountability in compliance-driven environments
 
 ---
 
-## 🏁 Outcome
+# 🏁 Outcome
 
-This dashboard provides a clear, centralized view of security operations, enabling better decision-making, improved risk management, and more efficient compliance tracking.
+This project provides a centralized view of governance and operational security workflows, enabling improved visibility into risk, remediation status, compliance activities, and security operations coordination.
 
-It simulates the type of reporting and workflow structure used in real-world GRC and security operations teams.
+It simulates the type of reporting, workflow management, and operational structure commonly used within enterprise GRC and cybersecurity teams.
