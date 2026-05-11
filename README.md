@@ -101,19 +101,25 @@ The project includes simulated enterprise cybersecurity activities such as:
 
 ## Security Governance Dashboard
 
-(Add updated dashboard screenshot here)
+![Security Governance Dashboard](dashboard-screenshots/security-governance-dashboard-overview.png)
+
+---
 
 ## Governance & Security Operations Tracking
 
-(Add updated ticket list screenshot here)
+![Governance & Security Operations Tracking](dashboard-screenshots/security-governance-ticket-management.png)
+
+---
 
 ## Priority vs Status Analysis
 
-(Add updated status analysis screenshot here)
+![Priority vs Status Analysis](dashboard-screenshots/security-governance-priority-status-analysis.png)
 
-## Example Security Investigation Workflow
+---
 
-(Add detailed ticket screenshot here)
+## Critical VPN Vulnerability Remediation Workflow
+
+![Critical VPN Vulnerability Remediation Ticket](dashboard-screenshots/critical-vpn-vulnerability-remediation-ticket.png)
 
 ---
 
