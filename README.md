@@ -2,9 +2,11 @@
 
 ## 📌 Overview
 
-This project demonstrates the design and implementation of a Governance, Risk, and Compliance (GRC) workflow using Jira to simulate real-world cybersecurity operations.
+This project simulates an enterprise cybersecurity governance and operational security tracking environment using Jira.
 
-The dashboard models how security teams track, prioritize, and report on risk across an organization, providing visibility into remediation efforts, compliance activities, and operational status.
+The environment was designed to model how a mid-sized healthcare organization could manage vulnerability remediation, IAM governance, security investigations, compliance activities, vendor risk management, and operational security workflows within a centralized platform aligned to HIPAA and NIST-oriented security practices.
+
+Rather than functioning as a simple ticketing demonstration, this project was intentionally structured to simulate realistic governance and security operations coordination activities commonly performed within enterprise cybersecurity environments.
 
 ---
 
